@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kube-sample:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2020-02-09T10:24:00.634251453-06:00"
+    description: A sample GO application for learning purposes
+    digest: cf0387e22255a16bb47334c541c5654b03aa1ca703b3e6a30d2928b909d5f7e4
+    name: kube-sample
+    type: application
+    urls:
+    - kube-sample-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-02-09T10:24:00.633650758-06:00"
